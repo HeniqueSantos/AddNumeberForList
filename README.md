@@ -1,0 +1,1 @@
+I made these two project for training my programing logics and study list and loops in phyton. These two project have two versions, one is the first version normal when i dont know nothing about i am doing and the plus, he is the last version what i made the system.
